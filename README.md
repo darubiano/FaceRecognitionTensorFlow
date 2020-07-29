@@ -9,7 +9,7 @@ Template images Will Smith
     <td><img src="./knows/will4.jpg" width=330px></td>
   </tr>
 </table>
-Other actors with and without Will Smith
+Test images with and without Will Smith
 <table style="width:100%">
   <tr>
     <td><img src="./unknows/actores.jpg"></td>
